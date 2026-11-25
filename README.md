@@ -7,3 +7,4 @@ The program displays a menu, accepts the user's choice and returns the matching 
 ## How to run
 
 Open `USSD.R` in RStudio and run the script, then enter your menu choice when prompted.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/acb97950-6a00-48cd-92bb-a0749d429df0" />
